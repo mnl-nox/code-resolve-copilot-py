@@ -156,20 +156,6 @@ Divisão: 2.0
      alt="GitHub Copilot Logo"/>
 
 ---
-
-# Estrutura do projeto
-
-resolvendo-codigos-python-copilot
-        src/
-        ├── dataConcat.py
-        ├── textRepeat.py
-        ├── operationMathSimple.py
-        │
-        ├── README.md
-
----
-
-
 <div align="center">
 
 > *Desenvolvido durante o Bootcamp da DIO* 
