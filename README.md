@@ -13,15 +13,39 @@
 ---
 
 # Descrição 
+---
 
-Este repositório contém a resolução dos desafios propostos pela **Digital Innovation One (DIO)** utilizando **Python** com o apoio do **GitHub Copilot**.
+Neste projeto, a ideia é solucionar alguns problemas
+usando o Copilot do GitHub.
 
-O objetivo é praticar:
+Teremos 3 problemas bases para resolver.
 
-- Escrita de código em Python;
-- Utilização do Git e GitHub;
-- Produtividade com GitHub Copilot;
-- Resolução de problemas básicos de programação.
+---
+
+# 1 - Concatenar Dados 
+
+Descrição do problema: 
+
+Iremos receber 2 dados diferentes do usuário e concatenar em uma única
+```string```
+
+---
+
+# 2 - Repetição de textos
+
+Descrição do problema: 
+
+Vamos solicitar uma ```string``` e um número inteiro como entrada.
+Depois retonaremos o número de vezes informado.
+
+---
+
+# 3 - Operações matematicas simples 
+
+Descrição do problema: 
+
+Vamos solicitar como entrada 2 números e depois realizar uma 
+operação simples entre eles.
 
 ---
 
