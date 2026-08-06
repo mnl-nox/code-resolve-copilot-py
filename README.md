@@ -135,11 +135,11 @@ Divisão: 2.0
 
 # Estrutura do projeto
 
-        resolvendo-codigos-python-copilot
-        │
+resolvendo-codigos-python-copilot
+        src/
         ├── dataConcat.py
         ├── textRepeat.py
-        ├── operacaoMathSimples.py
+        ├── operationMathSimple.py
         │
         ├── README.md
 
